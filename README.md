@@ -23,16 +23,16 @@ of a bonus round, a bonus candy cookie will fall from the sky, its size dependin
 in the bonus round. At the largest size, the bonus candy cookie is worth 50 cookies!
 
 # Screenshots
-![CookieHeroGameplayOne](https://github.com/user-attachments/assets/567522e7-aee8-482f-a643-f38456c72e04)
+![CookieHeroGameplayOne](https://github.com/user-attachments/assets/567522e7-aee8-482f-a643-f38456c72e04) </br>
 *Cookie Hero eating a cookie while Stinkus' suspicious gaze paints a more sinister picture of what lurks in the background. </br></br>
 
-![CookieHeroGameplayTwo](https://github.com/user-attachments/assets/c48a517f-45ef-4b88-81ed-abeefa86c863)
+![CookieHeroGameplayTwo](https://github.com/user-attachments/assets/c48a517f-45ef-4b88-81ed-abeefa86c863) </br>
 *Cookie Hero after getting hit by a trashed car. The Counts does not look impressed. </br></br>
 
-![CookieHeroGameplayThree](https://github.com/user-attachments/assets/1c003dc5-9544-4430-8981-5a2379e78346)
+![CookieHeroGameplayThree](https://github.com/user-attachments/assets/1c003dc5-9544-4430-8981-5a2379e78346) </br>
 *Cookie Hero triggers the bonus round! </br></br>
 
-![CookieHeroGameplayFive](https://github.com/user-attachments/assets/ad21bb56-a26a-4d6b-8ae6-c15a5c2c790e)
+![CookieHeroGameplayFive](https://github.com/user-attachments/assets/ad21bb56-a26a-4d6b-8ae6-c15a5c2c790e) </br>
 *A very large bonus candy cookie falls from the sky at the end of the bonus round. Looks like Cookie Hero did pretty good,
 but was one cookie short of triggering the next batch. 
 
